@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/E1080311.unity
+  isLoaded: 1
+  isActive: 1
